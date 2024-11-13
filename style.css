@@ -1,0 +1,121 @@
+.container{
+    height: 600px;
+    width: 100%;
+}
+
+.table{
+    border: 2px solid red;
+    height: 300px;
+    width: 300px;
+    margin: 60px auto;
+}
+
+.table,tr,td{
+    border: 2px solid #0f1709;
+    border-collapse: collapse;
+}
+
+
+
+tr ,.r-bor-remove,
+.g-bor-remove,
+.b-bor-remove,
+.y-bor-remove{
+border: none;
+}
+
+.r-bor-remove{
+    background-color: #ea3323;
+}
+
+.bor-remove{
+    border: none;
+}
+
+.red-token{
+    background-color: #ea3323;
+    border-radius: 50%;
+}
+
+
+/* Green box */
+
+.green-box{
+    background-color: #43962a;
+} 
+
+.green-token{
+    background-color: #43962a;
+    border-radius: 50%;
+}
+
+
+
+/* Blue box */
+
+.blue-box{
+    background-color: #80caf9;
+} 
+
+.blue-token{
+    background-color: #80caf9;
+    border-radius: 50%;
+}
+
+/* Yello box */
+
+.yello-box{
+    background-color: #f8ce46;
+} 
+
+.yello-token{
+    background-color: #f8ce46;
+    border-radius: 50%;
+}
+
+
+
+/* Play Area Red */
+
+.play-area-red{
+    background-color: #ea3323;
+}
+/* Play area green */
+.play-area-green{
+    background-color:#43962a;
+}
+/* play area blue */
+.play-area-blue{
+    background-color:#80caf9;
+}
+/* play area yello */
+.play-area-yello{
+    background-color:#f8ce46;
+}
+
+/* win area */
+
+.win-area{
+    border: none;
+    background-color: pink;
+}
+
+
+
+
+
+/* 
+echo "# html-css-ludo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ShaikhMuhammadSami/html-css-ludo.git
+git push -u origin main
+
+ */
+
+
+
+
+
