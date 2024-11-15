@@ -96,25 +96,43 @@ border: none;
 /* win area */
 
 .win-area{
-    border: none;
+    border: none; 
     background-color: pink;
+    
 }
 
+/* blue  */
+.win-area-img{
+    background-image: url(images/blue-win.png);
 
+    background-color: #80caf9;
+    border: 2px solid #009dff;
+}
 
+/*  red */
+.win-area-img-red{
+    background-image: url(images/red-win.png);
+    background-repeat: no-repeat;
+    background-color: #ea3323;
+    border: 2px solid #ff0a0a;
+}
+/* green */
+.win-area-img-green{
+    background-image: url(images/green-win.png);
+    background-color: #43962a;
+    border: 2px solid #239800;
+}
+/* yello */
+.win-area-img-yello{
+    background-image: url(images/yello-win.png);
+    background-color: #f8ce46;
+    border: 2px solid #ebf300;
+}
 
-
-/* 
-echo "# html-css-ludo" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ShaikhMuhammadSami/html-css-ludo.git
-git push -u origin main
-
- */
-
+.crown-img{
+    background-image: url(images/crown-pic-removebg-preview.png);
+    background-color:#f6ff00;
+}
 
 
 
